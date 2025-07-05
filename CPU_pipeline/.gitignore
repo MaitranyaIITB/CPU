@@ -1,0 +1,12 @@
+﻿output_files/
+simulation/
+db/
+incremental_db/
+*.bak
+*.rpt
+*.smsg
+*.sof
+*.pin
+*.raw
+*.wlf
+*.sdf
